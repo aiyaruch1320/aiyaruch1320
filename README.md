@@ -1,8 +1,6 @@
 # Hi! 👋 I'm Aiyaruch Phengthong 
 
 <a href="https://www.instagram.com/aiyaruch"><img align="left" alt="Aiyaruch's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a href="#"><img align="left" alt="Aiyaruch's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-<a href="#"><img align="left" alt="Aiyaruch's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://web.facebook.com/AiyaruchAi/"><img align="left" alt="Aiyaruch's Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" /></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aiyaruch1320.aiyaruch1320" />
 
