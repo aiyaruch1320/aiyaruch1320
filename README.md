@@ -15,3 +15,5 @@ a passionate self-taught full stack web developer and a freelance software engin
   <img src="https://github-readme-stats.vercel.app/api?username=aiyaruch1320&show_icons=true&theme=radical" />
 </div>
 
+<h2 align="center">Hobbies</h2>
+https://backend.codecrafters.io/progress/shell/0b390423-8c7a-437a-b018-5bbccbff8aeb
