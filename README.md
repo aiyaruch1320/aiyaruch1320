@@ -17,4 +17,4 @@ a passionate self-taught full stack web developer and a freelance software engin
 
 <h2 align="center">Hobbies</h2>
 https://backend.codecrafters.io/progress/shell/0b390423-8c7a-437a-b018-5bbccbff8aeb
-<div  align="center"><img alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://backend.codecrafters.io/progress/shell/0b390423-8c7a-437a-b018-5bbccbff8aeb)"/></div>
+<div  align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/></div>
